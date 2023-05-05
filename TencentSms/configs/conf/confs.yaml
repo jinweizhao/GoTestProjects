@@ -1,0 +1,4 @@
+SmsConf:
+  Endpoint: "sms.tencentcloudapi.com"
+  Region: "ap-beijing"
+  SmsSdkAppId: "1400818063"
